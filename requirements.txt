@@ -1,0 +1,13 @@
+numpy
+sklearn
+scipy
+scikit-learn
+nltk
+#pandas
+beautifulsoup4
+gensim==0.13.4.1
+sphinx
+# tensorflow
+# matplotlib
+pywsd
+psutil
